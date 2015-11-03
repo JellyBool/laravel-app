@@ -45,3 +45,16 @@
 }.media-body a{
     color: #4b4b4b;
  }
+
+ #avatar .avatar{
+     margin: 2px auto;
+     width: 100px;
+     z-index: 6;
+     margin-top: -28px;
+     opacity:0;
+     height: 32px;
+ }
+ #avatar .btn.avatar-button{
+     margin-top: 30px;
+     z-index: 3;
+ }
