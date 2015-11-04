@@ -10,7 +10,7 @@ cropBox.Jcrop({
     setSelect: [120,120,10,10]
 });
 $('.jcrop-holder img').attr('src',response.avatar);
-}
+
 
 //添加的两个function
 function updateCoords(c)
